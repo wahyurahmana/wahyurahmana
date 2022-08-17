@@ -13,4 +13,3 @@ Disini Tempat Saya Berkarya.
 
 ### Kenalan Yuk
 - <a href="https://www.linkedin.com/in/wahyu-rahmana/">LinkedIn</a>
-- <a href="indolearning.co.id">My Web</a>
